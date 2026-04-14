@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Wordpress and PHP
+I'm currently learning React.Js
 
 
 ## 🌐 Socials:
