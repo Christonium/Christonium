@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning React.Js
+University Student of BINUS University, Proficient in modern front-end programming, with a strong focus on delivering optimized and visually appealing user experiences. Skilled in collaborating with teams to translate design mockups into functional code
 
 
 ## 🌐 Socials:
@@ -27,6 +27,10 @@ I'm currently learning React.Js
 - Designed and executed event Presentation, aligning with the event theme and budget
 - Edited and compiled photos and videos to create engaging post-event content for Documentation
 - Collaborated with other committees to ensure smooth event flow and visual appeal
+
+# Portfolio:
+#### [- ReCOOK](https://www.canva.com/design/DAGM3nNQk_s/OaHMtdoaJvq4QC1SYYccVQ/edit)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Christonium&limit=5&theme=dark&combine_all_yearly_contributions=true)
