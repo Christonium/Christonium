@@ -29,7 +29,7 @@ University Student of BINUS University, Proficient in modern front-end programmi
 - Collaborated with other committees to ensure smooth event flow and visual appeal
 
 # Portfolio:
-#### [- ReCOOK]([https://www.canva.com/design/DAGM3nNQk_s/OaHMtdoaJvq4QC1SYYccVQ/edit](https://www.figma.com/design/zpyYMgCqn2ojjsyHE4y3Qf/Prototype-ReCook?node-id=0-1&t=yLp1BwHbuRYmArL8-1))
+#### [- ReCOOK](https://www.figma.com/design/zpyYMgCqn2ojjsyHE4y3Qf/Prototype-ReCook?node-id=0-1&t=yLp1BwHbuRYmArL8-1)
 
 
 ### 🔝 Top Contributed Repo
