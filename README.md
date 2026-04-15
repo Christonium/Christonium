@@ -18,9 +18,9 @@ University Student of BINUS University, Proficient in modern front-end programmi
 - Website Link: https://onlinestss.com/
 
 #### - Data Scientist Intern(September, 2024 – February, 2025)
-- Conducted research on machine learning applications in healthcare, focusing on stroke risk prediction using patient data
+- Conducted research on machine learning applications in healthcare, focusing on breast cancer risk prediction using patient data
 - Designed data preprocessing pipelines, including imputation, scaling, and encoding
-- Built and implemented machine learning models using Python and scikit-learn, including Logistic Regression, SVM, and Random Forest
+- Built and implemented machine learning models using Python and scikit-learn, including Logistic Regression, Linear Regression, and Random Forest
 - Ensured model robustness through cross-validation and systematic evaluation metrics
 
 #### - Commitee of Decoration and Documentation(February, 2022)
@@ -30,14 +30,25 @@ University Student of BINUS University, Proficient in modern front-end programmi
 
 # Portfolio:
 #### [- ReCOOK](https://www.figma.com/design/zpyYMgCqn2ojjsyHE4y3Qf/Prototype-ReCook?node-id=0-1&t=yLp1BwHbuRYmArL8-1)
+This project design is to help people who have difficulties to find a recipe, this app can also give recipe recommendation based on user search history.
+- Contributed to the planning of the software design
+- Contributed to the design of the application using figma. 
 
 #### [- ALL-IN](https://www.figma.com/design/hVHITiniwU5nZ7BjVbDOCg/ALL-IN-prototype?node-id=0-1&t=LJCNIsP6VTnCMMcA-1)
+This software design is made to help pc user manage their application so they can keep their taskbar clean, our purpose making this design also help in maintaining memory usage.
+- Contributed to the planning of the software design
+- Contributed to the design of the software using figma. 
 
-#### [- ReCOOK](https://www.figma.com/design/zpyYMgCqn2ojjsyHE4y3Qf/Prototype-ReCook?node-id=0-1&t=yLp1BwHbuRYmArL8-1)
+#### [- Dinedash](https://github.com/IanJ-C/ProjectMobileProg.git)
+Project created to help local restaurants and street vendors to reach a wider range of buyers. This app is similar to gofood or shopee food, but our app is used to help small vendor, we also make sure the food that our user buy is clean and hygienic
+- Contributed to the development of Application using Android Studio and XML language to create and design the webpages.
+- Contributed to the design of the application using figma. 
 
-#### [- ReCOOK](https://www.figma.com/design/zpyYMgCqn2ojjsyHE4y3Qf/Prototype-ReCook?node-id=0-1&t=yLp1BwHbuRYmArL8-1)
-
-#### [- ReCOOK](https://www.figma.com/design/zpyYMgCqn2ojjsyHE4y3Qf/Prototype-ReCook?node-id=0-1&t=yLp1BwHbuRYmArL8-1)
+#### [- Breast Cancer Research](https://colab.research.google.com/drive/132J3zSEiLe10VLf8dxasSv2QquC1d3ml?usp=sharing)
+This research aims to help healthcare organisation to analyze the posibility of breast cancer risk on patient easier and faster
+- Designed data preprocessing pipelines, including imputation, scaling, and encoding
+- Built and implemented machine learning models using Python and scikit-learn, including Logistic Regression, Linear Regression, and Random Forest
+- Ensured model robustness through cross-validation and systematic evaluation metrics
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Christonium&limit=5&theme=dark&combine_all_yearly_contributions=true)
